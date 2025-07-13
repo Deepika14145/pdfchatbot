@@ -8,15 +8,13 @@ A web-based interface for uploading PDF files and chatting with them.
 
 ## 🔧 Setup Instructions
 
-### 1. Clone the Repository
-
 ```bash
-git clone https://github.com/Deepika14145/pdfchatbot.git
-cd pdfchatbot
+
 
 ## 🔧 Setup Instructions ###
 1. Clone the repository
- ```bash git clone https://github.com/Deepika14145/pdfchatbot.git cd pdfchatbot
+ ```bash git clone https://github.com/Deepika14145/pdfchatbot.git
+ cd pdfchatbot
 
 2.Virtual Environment python3 -m venv venv source venv/bin/activate
  # Windows: venv\Scripts\activate pip install -r requirements.txt
