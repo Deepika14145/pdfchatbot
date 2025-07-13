@@ -1,14 +1,19 @@
-# Run and deploy your AI Studio app
+# PDF Chatbot
 
-This contains everything you need to run your app locally.
+A web-based interface for uploading PDF files and chatting with them.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🚀 Run and Deploy Your AI Studio App
 
+This project contains everything you need to run your app locally.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🔧 Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Deepika14145/pdfchatbot.git
+cd pdfchatbot
