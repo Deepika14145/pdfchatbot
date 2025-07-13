@@ -1,0 +1,7 @@
+{
+  "name": "KNAV PDF ChatBot",
+  "description": "A conversational AI chatbot application designed to interact with users, providing information and assistance, styled with a modern, dark-themed interface inspired by Microsoft Copilot.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
